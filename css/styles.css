@@ -1,0 +1,20 @@
+.SIDEBAR {
+  width: 30%;
+  float: left;
+  background-color: lightblue;
+}
+
+.toptwo {
+  width: 70%;
+  float: right;
+}
+
+.album {
+  width: 300px;
+  float: left;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
