@@ -10,11 +10,6 @@
 }
 
 .album {
-  width: 300px;
-  float: left;
-}
-
-.column {
-  width: 300px;
+  width: 30%;
   float: left;
 }
